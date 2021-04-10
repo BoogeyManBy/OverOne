@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class matrixFromSTAR {
+public class MatrixFromSTAR {
     public static void main(String[] args) {
         Scanner vvodA = new Scanner(System.in);
         int ab;
