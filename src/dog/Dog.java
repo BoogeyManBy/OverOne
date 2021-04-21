@@ -1,4 +1,4 @@
-package Dog;
+package dog;
 
 /**
  * Создать класс Dog (собака), в котором будет 3 поля: String - кличка, String - порода, int - скорость.

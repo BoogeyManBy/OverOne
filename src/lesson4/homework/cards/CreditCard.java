@@ -1,4 +1,4 @@
-package lesson4.cards;
+package lesson4.homework.cards;
 
 //кредитная карта
 public class CreditCard extends BankСards {

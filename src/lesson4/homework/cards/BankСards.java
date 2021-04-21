@@ -1,4 +1,4 @@
-package lesson4.cards;
+package lesson4.homework.cards;
 
 public class BankСards {
     private String name; //visa, master, maestro ...

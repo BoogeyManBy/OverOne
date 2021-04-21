@@ -1,4 +1,4 @@
-package lesson4.Appliances;
+package lesson4.homework.appliances;
 
 //холодильник
 public class Refrigerator extends Appliances {

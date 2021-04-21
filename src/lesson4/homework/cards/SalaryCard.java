@@ -1,4 +1,4 @@
-package lesson4.cards;
+package lesson4.homework.cards;
 
 //зарплатная карта
 public class SalaryCard extends BankСards{

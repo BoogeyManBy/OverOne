@@ -1,4 +1,4 @@
-package lesson4.Appliances;
+package lesson4.homework.appliances;
 
 public class DishBosh extends Dishwasher{
     public DishBosh(){
