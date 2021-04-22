@@ -7,7 +7,7 @@ package lesson4.homework;
  */
 public class Sequence {
     public static void main(String[] args) {
-        for (int a = 4; a < 10000; a=2*(a-1)-1) {
+        for (int a = 4; a < 10000; a=2*a-1-1) {
             System.out.println(a);
         }
     }
